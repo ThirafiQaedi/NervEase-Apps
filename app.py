@@ -1,4 +1,5 @@
 import streamlit as st
+import tensorflow
 from prediction import predict_mental_health
 
 st.set_page_config(page_title="NervEase - Deteksi Awal Kesehatan Mental", layout="centered")
