@@ -1,5 +1,0 @@
-streamlit==1.43.1
-numpy==1.26.4
-tensorflow==2.13.0
-keras==2.13.0
-pickle5==0.0.12
